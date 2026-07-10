@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "attack-mapper"
-version = "0.4.0"
+version = "0.4.1"
 description = "Map your Sigma detection rules onto the MITRE ATT&CK matrix and find coverage gaps."
 readme = "README.md"
 requires-python = ">=3.9"

@@ -11,7 +11,7 @@ from .sigma_parser import (
 from .renderers import render_terminal, render_html, STYLES
 from .plugins import render_badge, render_json
 
-__version__ = "0.4.0"
+__version__ = "0.4.1"
 
 __all__ = [
     "AttackDB",

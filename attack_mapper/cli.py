@@ -51,7 +51,7 @@ def build_parser() -> argparse.ArgumentParser:
         help="Also write an SVG coverage badge to PATH (great for a README).",
     )
     p.add_argument("--quiet", action="store_true", help="Suppress the terminal table.")
-    p.add_argument("--version", action="version", version="%(prog)s 0.4.0")
+    p.add_argument("--version", action="version", version="%(prog)s 0.4.1")
     return p
 
 

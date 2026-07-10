@@ -48,7 +48,7 @@ cover, and where are the blind spots?"*
 
 | `report` (print-ready dossier) | `matrix` (cards) |
 | --- | --- |
-| ![report style](docs/screenshot_report.png) | ![matrix style](docs/screenshot_matrix.png) |
+| ![report style](https://raw.githubusercontent.com/JoseArgento/attack-mapper/main/docs/screenshot_report.png) | ![matrix style](https://raw.githubusercontent.com/JoseArgento/attack-mapper/main/docs/screenshot_matrix.png) |
 
 ## Install
 
